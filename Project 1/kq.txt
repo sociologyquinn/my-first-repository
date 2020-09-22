@@ -1,0 +1,5 @@
+mkdir /User/kqdog92/Documents/GitHub/my-first-repository/Project\ 1/
+git clone https://github.com/sociologyquinn/my-first-repository.git
+git add README.md 
+git commit -m “not afraid to commit“
+git push
